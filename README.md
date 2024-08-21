@@ -19,7 +19,7 @@ This project performs the following functions:
 - Matplotlib and Seaborn: For data visualization.
 - Scikit-learn: For implementing the Random Forest model and evaluating its performance.
 
-##🛠️ Development Process
+## 🛠️ Development Process
 - 📚 Importing Libraries: Import the necessary libraries for data analysis and modeling, including pandas, matplotlib, seaborn, and scikit-learn.
 - 📥 Loading Data: Load the training and test CSV files from the specified paths.
 - 🔗 Merging Datasets: Combine the training and test datasets into a single DataFrame using pd.concat.
